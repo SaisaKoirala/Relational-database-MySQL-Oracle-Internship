@@ -1,2 +1,3 @@
 --DAY 9: LIKE operator
-SELECT * FROM students WHERE age>=20 AND class LIKE 'S%';
+SELECT * FROM students WHERE age>=20 AND class LIKE 'B%'; --RETURNS STUDENTS WHOSE AGE >=20 AND CLASS STARTS FROM B
+
